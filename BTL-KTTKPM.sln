@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTL-KTTKPM", "BTL-KTTKPM\BTL-KTTKPM.csproj", "{8E9C34FF-2D93-468B-BFFF-A10A5AA67711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9C34FF-2D93-468B-BFFF-A10A5AA67711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9C34FF-2D93-468B-BFFF-A10A5AA67711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9C34FF-2D93-468B-BFFF-A10A5AA67711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9C34FF-2D93-468B-BFFF-A10A5AA67711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
